@@ -75,7 +75,7 @@ The repository follows a week-by-week build-up:
 
 ## 📜 License
 
-This project’s original code is released under the **MIT License**.  
+This project’s original code is released under the **Apache 2.0 License**.  
 Third-party components are included under their respective licenses:  
 
 - NVIDIA Stock Dataset — [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)  
